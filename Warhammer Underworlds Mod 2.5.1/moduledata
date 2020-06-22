@@ -1,8 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <data version="1">
   <version>2.5.1</version>
-  <VassalVersion>3.2.17</VassalVersion>
-  <dateSaved>1582656470893</dateSaved>
+  <VassalVersion>3.3.0-beta2</VassalVersion>
+  <dateSaved>1592793734324</dateSaved>
   <description>Vassal mod for Warhammer underworlds. </description>
   <name>Warhammer Underworlds Mod</name>
 </data>
